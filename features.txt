@@ -1,0 +1,15 @@
+TODO:
+
+- Properly use SYSTEM_RETURN, games freeze in their attract loop
+- SRAM sanitizing and initialization
+- Debug dips management
+- Pause (with music pause)
+- Cheats (Pugsy's cheats)
+- Action Replay
+- Versus Mode
+- Hardware test
+- Memory card management
+- Soft DIPs management (done)
+- Hiscore saving
+- Music Player
+- Cabinet link test

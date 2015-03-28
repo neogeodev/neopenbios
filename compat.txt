@@ -1,0 +1,1666 @@
+2020bb
+
+Logo:	OK
+Title:	OK
+AES:	Always "Hit by pitch"
+MVS:	Always "Hit by pitch"
+
+3countb
+
+Logo:	OK
+Title:	OK
+AES:	100M shock logo isn't displayed, can't start a match
+MVS:	100M shock logo isn't displayed, can't start a match
+
+alpham2
+
+Logo:	OK
+Title:	OK
+AES:	Infinite Loop while starting
+MVS:	Infinite Loop while starting
+
+androdun
+
+Logo:	OK
+Title:	OK
+AES:	Seems OK
+MVS:	Seems OK
+
+aodk
+
+Logo:	OK
+Title:	OK
+AES:	Timer too fast
+MVS:	Timer too fast
+
+aof
+
+Logo:	OK
+Title:	OK
+AES:	Timer problem
+MVS:	Timer problem
+
+aof2
+
+Logo:	OK
+Title:	OK
+AES:	Timer problem, game is slow, can't move
+MVS:	Timer problem, game is slow, can't move
+
+aof3
+
+Logo:	OK
+Title:	OK
+AES:	Timer problem
+MVS:	Timer problem
+
+bakatono
+
+Logo:	Doesn't show the menu
+Title:	Doesn't show the menu
+AES:	Freeze at memcard loading
+MVS:	
+
+bangbead
+
+Logo:	OK
+Title:	OK
+AES:	Seems OK
+MVS:	Seems OK
+
+bjourney
+
+Logo:	OK
+Title:	OK
+AES:	Seems OK
+MVS:	Seems OK
+
+blazstar
+
+Logo:	OK
+Title:	OK
+AES:	Seems OK
+MVS:	Seems OK
+
+breakers
+
+Logo:	OK
+Title:	OK
+AES:	buttons do not works in game, joystick does
+MVS:	Seems OK
+
+breakrev
+
+Logo:	OK
+Title:	OK
+AES:	buttons do not works in game, joystick does
+MVS:	Seems OK
+
+bstars
+
+Logo:	BAD
+Title:	OK
+AES:	intro works, freeze after
+MVS:	intro works, freeze after
+
+bstars2
+
+Logo:	OK
+Title:	OK
+AES:	Always Dead Ball
+MVS:	TIME UP
+
+burningf
+
+Logo:	BAD
+Title:	OK
+AES:	Can't pass the first screen (in game)
+MVS:	Can't pass the first screen (in game)
+
+crsword
+
+Logo:	Doesn't Boot
+Title:	Doesn't Boot
+AES:	Doesn't Boot
+MVS:	Doesn't Boot
+
+ct2k3sa
+
+Logo:	NONE
+Title:	NONE
+AES:	Reboot
+MVS:	Reboot
+
+ct2k3sp
+
+Logo:	NONE
+Title:	NONE
+AES:	Reboot
+MVS:	Reboot
+
+cthd2003
+
+Logo:	NONE
+Title:	NONE
+AES:	Reboot
+MVS:	Reboot
+
+ctomaday
+
+Logo:	OK
+Title:	OK
+AES:	Seems OK
+MVS:	Seems OK
+
+cyberlip
+
+Logo:	BAD
+Title:	OK
+AES:	Freeze at Game Over
+MVS:	Freeze at START
+
+diggerma
+
+Logo:	BAD
+Title:	BAD
+AES:	Seems OK
+MVS:	Seems OK
+
+doubledr
+
+Logo:	BAD
+Title:	OK
+AES:	Doesn't Boot
+MVS:	Doesn't Boot
+
+eightman
+
+Logo:	OK
+Title:	OK
+AES:	Seems OK
+MVS:	Seems OK
+
+fatfursp
+
+Logo:	BAD
+Title:	OK
+AES:	Time UP
+MVS:	Time UP
+
+fatfury1
+
+Logo:	BAD
+Title:	OK
+AES:	Can't go forward or backward
+MVS:	TODO
+
+fatfury2
+
+Logo:	BAD
+Title:	OK
+AES:	Bad graphics in combat intro, can't move forward
+MVS:	Bad graphics in combat intro, can't move forward
+
+fatfury3
+
+Logo:	BAD
+Title:	OK
+AES:	Seems OK
+MVS:	Seems OK
+
+fbfrenzy
+
+Logo:	BAD
+Title:	OK
+AES:	Don't know
+MVS:	Don't know
+
+fightfev
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+fightfeva
+
+Logo:	WEIRD
+Title:	OK
+AES:	Doesn't Boot
+MVS:	Doesn't Boot
+
+flipshot
+
+Logo:	NONE
+Title:	OK
+AES:	OK
+MVS:	Address Error on START
+
+fswords
+
+Logo:	OK
+Title:	OK
+AES:	Freeze at title screen
+MVS:	No controls
+
+galaxyfg
+
+Logo:	BAD
+Title:	OK
+AES:	Seems ok
+MVS:	Seems ok
+
+ganryu
+
+Logo:	NONE
+Title:	OK
+AES:	OK
+MVS:	OK
+
+garou
+
+Logo:	NONW
+Title:	OK
+AES:	Redo the logo anim (bad)
+MVS:	Redo the logo anim (bad)
+
+garoubl
+
+Logo:	NONE
+Title:	OK
+AES:	Redo the logo anim (bad)
+MVS:	Redo the logo anim (bad)
+
+garouo
+
+Logo:	NONE
+Title:	OK
+AES:	Redo the logo anim (bad)
+MVS:	Redo the logo anim (bad)
+
+garoup
+
+Logo:	NONE
+Title:	OK
+AES:	Redo the logo anim (bad)
+MVS:	Redo the logo anim (bad)
+
+ghostlop
+
+Logo:	WEIRD
+Title:	BAD
+Menu:	Can't select usa/japan, address error on selecting MVS
+AES:	Seems ok
+MVS:	Seems ok
+
+goalx3
+
+Logo:	WEIRD
+Title:	OK
+AES:	OK
+MVS:	OK
+
+gowcaizr
+
+Logo:	WEIRD
+Title:	OK
+AES:	OK
+MVS:	OK
+
+gpilots
+
+Logo:	OK
+Title:	OK
+AES:	Can't skip how to play, can't confirm bomb
+MVS:	Can't skip how to play, can't confirm bomb
+
+gpilotsh
+
+Logo:	OK
+Title:	OK
+AES:	Can't skip how to play, can't confirm bomb
+MVS:	Can't skip how to play, can't confirm bomb
+
+gururin
+
+Logo:	BAD
+Title:	OK
+AES:	OK
+MVS:	OK
+
+irrmaze
+
+Logo:	Boot directly
+Title:	Boot directly
+AES:	Doesn't use bios
+MVS:	Doesn't use bios
+
+janshin TODO
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+jockeygp
+
+Logo:	BAD
+Title:	BAD
+AES:	OK
+MVS:	OK
+
+jockeygpa
+
+Logo:	BAD
+Title:	BAD
+AES:	OK
+MVS:	OK
+
+joyjoy
+
+Logo:	WEIRD
+Title:	OK
+AES:	OK
+MVS:	OK
+
+kabukikl
+
+Logo:	WEIRD
+Title:	OK
+AES:	Doesn't Boot
+MVS:	Doesn't Boot
+
+karnovr
+
+Logo:	WEIRD
+Title:	OK
+AES:	OK
+MVS:	OK
+
+kf10thep
+
+Logo:	OK
+Title:	NONE
+AES:	Reboot
+MVS:	Reboot
+
+kf2k2mp
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kf2k2mp2
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kf2k2pla
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kf2k2pls
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kf2k3bl
+
+Logo:	OK
+Title:	OK
+AES:	OK
+MVS:	OK
+
+kf2k3bla
+
+Logo:	OK
+Title:	OK
+AES:	OK
+MVS:	OK
+
+kf2k3pcb
+
+Logo:	Doesn't use the bios
+Title:	Doesn't use the bios
+AES:	Doesn't use the bios
+MVS:	Doesn't use the bios
+
+kf2k3pl
+
+Logo:	OK
+Title:	OK
+AES:	OK
+MVS:	OK
+
+kf2k3upl
+
+Logo:	OK
+Title:	OK
+AES:	OK
+MVS:	OK
+
+kf2k5uni
+
+Logo:	OK
+Title:	NONE
+AES:	Reboot
+MVS:	Reboot
+
+kizuna
+
+Logo:	BAD
+Title:	OK
+AES:	Arrows don't work
+MVS:	Arrows don't work
+
+kof10th
+
+Logo:	OK
+Title:	NONE
+AES:	Reboot
+MVS:	Reboot
+
+kof2000
+
+Logo:	OK
+Title:	OK
+AES:	Check the bios (probably search a string)
+MVS:	Reboot
+
+kof2000n
+
+Logo:	OK
+Title:	OK
+AES:	Check the bios (probably search a string)
+MVS:	Reboot
+
+kof2001
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof2001h
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof2002
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof2002b
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof2003
+
+Logo:	OK
+Title:	OK
+AES:	OK
+MVS:	OK
+
+kof2003h
+
+Logo:	OK
+Title:	OK
+AES:	OK
+MVS:	OK
+
+kof2k4se
+
+Logo:	NONE
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof94
+
+Logo:	BAD
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof95
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof95h
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof96
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof96h
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof97
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof97h
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof97k TODO
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+kof97pls
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof98
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof98h
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof98k
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof98ka
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof99
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof99e
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof99h
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kof99k
+
+Logo:	OK
+Title:	NONE
+AES:	Reboot
+MVS:	Reboot
+
+kof99p
+
+Logo:	OK
+Title:	OK
+AES:	Reboot
+MVS:	Reboot
+
+kog
+
+Logo:	OK
+Title:	NONE
+AES:	Reboot
+MVS:	Reboot
+
+kotm
+
+Logo:	WEIRD
+Title:	OK
+AES:	TIME OUT
+MVS:	TIME OUT
+
+kotm2
+
+Logo:	BAD
+Title:	OK
+AES:	UP/DOWN Don't work
+MVS:	
+
+kotmh
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+lans2004
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+lastblad
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+lastbladh
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+lastbld2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+lastsold
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+lbowling
+
+Logo:	Transparent tile is not (bad romset ?)
+Title: Animation problems
+AES: Display problems, ball goes directly in the gutter
+MVS: Display problems, ball goes directly in the gutter
+
+legendos
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+lresort
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+magdrop2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+magdrop3
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+maglord
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+maglordh
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+mahretsu
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+marukodq
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+matrim
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+matrimbl
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+miexchng
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+minasan
+
+Logo:	Doesn't boot
+Title:	Doesn't boot
+AES:	Doesn't boot
+MVS:	Doesn't boot
+
+mosyougi
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ms4plus
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ms5pcb
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ms5plus
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+mslug
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+mslug2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+mslug3
+
+Logo:	BAD
+Title:	OK
+AES:	Seems ok	
+MVS:	Seems ok
+
+mslug3b6
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+mslug3h
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+mslug4
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+mslug4h
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+mslug5
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+mslug5h
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+mslugx
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+mutnat
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+nam1975
+
+Logo:	NONE
+Title:	OK
+AES:	Crash after start
+MVS:	Crash after start
+
+ncombat
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ncombath
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ncommand
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+neobombe
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+neocup98
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+neodrift
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+neogeo
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+neomrdo
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ninjamas
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+nitd
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+nitdbl
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+overtop
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+panicbom
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+pbobbl2n
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+pbobblen
+
+Logo:	OK
+Title:	OK
+AES:	Seems ok
+MVS:	Seems ok
+
+pbobblenb
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+pgoal
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+pnyaa
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+popbounc
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+preisle2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+pspikes2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+pulstar
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+puzzldpr
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+puzzledp
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+quizdai2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+quizdais
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+quizdaisk
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+quizkof
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+quizkofk
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ragnagrd
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+rbff1
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+rbff1a
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+rbff2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+rbff2h
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+rbff2k
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+rbffspec
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+rbffspeck
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ridhero
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ridheroh
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+roboarmy
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+rotd
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+s1945p
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsh5sp
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsh5sph
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsh5spn
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsho
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsho2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsho2k
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsho3
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsho3h
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsho4
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsho4k
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsho5
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsho5b
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samsho5h
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+samshoh
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+savagere
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+sdodgeb
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+sengoku
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+sengoku2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+sengoku3
+
+Logo:	Fix glitches
+Title:
+AES:	Warning screen
+MVS:	Lots of sprites glitches
+
+sengokuh
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+shocktr2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+shocktro
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+shocktroa
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+socbrawl
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+socbrawlh
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+sonicwi2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+sonicwi3
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+spinmast
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ssideki
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ssideki2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ssideki3
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+ssideki4
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+stakwin
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+stakwin2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+strhoop
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+superspy
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+svc
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+svcboot
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+svcpcb
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+svcpcba
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+svcplus
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+svcplusa
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+svcsplus
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+tophuntr
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+tophuntrh
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+tpgolf
+
+Logo:	OK
+Title:	OK
+AES:	No controls during shot, Glitchy gameplay
+MVS:	No controls during shot, Glitchy gameplay
+
+trally
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+turfmast
+
+Logo:	OK
+Title:	OK
+AES:	Seems ok
+MVS:	Seems ok
+
+twinspri
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+tws96
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+viewpoin
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+vliner
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+vlinero
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+wakuwak7
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+wh1
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+wh1h
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+wh1ha
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+wh2
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+wh2j
+
+Logo:	
+Title:	
+AES:	
+MVS:	
+
+whp
+
+Logo:	OK
+Title:	OK
+AES:	Can't select difficulty
+MVS:	Can't select player
+
+wjammers
+
+Logo:	BAD
+Title:	OK
+AES:	No text, must use MESS_OUT
+MVS:	No text, must use MESS_OUT
+
+zedblade
+
+Logo:	OK
+Title:	OK
+AES:	Seems ok
+MVS:	Seems ok
+
+zintrckb
+
+Logo:	NONE
+Title:	BAD
+AES:	Can't select player
+MVS:	Start isn't working
+
+zupapa
+
+Logo:	NONE
+Title:	OK
+AES:	WARNING screen
+MVS:	Boots with minor fix garbage
