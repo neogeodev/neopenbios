@@ -15,8 +15,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
 gamename_41:
 .string "Baseball Stars 2     "
 .string "Baseball Stars 2     "

@@ -15,8 +15,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
 gamename_25:
 .string "Eight Man            "
 .string "Eight Man            "

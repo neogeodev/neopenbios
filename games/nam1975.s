@@ -15,8 +15,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
 gamename_1:
 .string "NAM-1975             "
 .string "NAM-1975             "

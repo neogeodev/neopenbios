@@ -15,8 +15,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
 gamename_60:
 .string "Fight Fever          "
 .string "Fight Fever          "

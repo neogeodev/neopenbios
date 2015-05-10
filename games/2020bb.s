@@ -15,8 +15,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
 gamename_30:
 .string "Super Baseball 2020  "
 .string "Super Baseball 2020  "
