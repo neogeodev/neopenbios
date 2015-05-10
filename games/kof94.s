@@ -15,11 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
 gamename_55:
-.string "King of Figthers 94  "
-.string "King of Figthers 94  "
-.string "King of Figthers 94  "
+.string "King of Fighters 94  "
+.string "King of Fighters 94  "
+.string "King of Fighters 94  "
 .long	0x0
 .long	0x0
