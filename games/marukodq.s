@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_206:
+.string "Chibi Maruko. Quiz   "
+.string "Chibi Maruko. Quiz   "
+.string "Chibi Maruko. Quiz   "
+.long	0x0
+.long	0x0

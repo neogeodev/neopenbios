@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_257:
+.string "KOF 2000             "
+.string "KOF 2000             "
+.string "KOF 2000             "
+.long	0x0
+.long	0x0

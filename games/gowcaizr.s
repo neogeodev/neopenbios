@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_94:
+.string "Voltage Fighter Gow. "
+.string "Voltage Fighter Gow. "
+.string "Voltage Fighter Gow. "
+.long	0x0
+.long	0x0

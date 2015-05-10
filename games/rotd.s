@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_264:
+.string "Rage of the Dragons  "
+.string "Rage of the Dragons  "
+.string "Rage of the Dragons  "
+.long	0x0
+.long	0x0

@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_224:
+.string "Twinkle Star Sprites "
+.string "Twinkle Star Sprites "
+.string "Twinkle Star Sprites "
+.long	0x0
+.long	0x0

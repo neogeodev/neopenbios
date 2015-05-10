@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_218:
+.string "Shinoken             "
+.string "Ragnagard            "
+.string "Ragnagard            "
+.long	0x0
+.long	0x0

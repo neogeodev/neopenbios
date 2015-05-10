@@ -1,4 +1,4 @@
-
+/*
  * Copyright (c) 2011 Emmanuel Vadot <elbarto@neogeodev.org>
  * Copyright (c) 2011 Furrtek <furrtek@neogeodev.org>
  *
@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_248:
+.string "Puzzle Bobble 2      "
+.string "Bust-A-Move Again    "
+.string "Bust-A-Move Again    "
+.long	0x0
+.long	0x0

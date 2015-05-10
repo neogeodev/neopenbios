@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_260:
+.string "Nightmare in the D.  "
+.string "Nightmare in the D.  "
+.string "Nightmare in the D.  "
+.long	0x0
+.long	0x0

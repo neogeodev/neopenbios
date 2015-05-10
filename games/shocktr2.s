@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_246:
+.string "Shock Troopers 2     "
+.string "Shock Troopers 2     "
+.string "Shock Troopers 2     "
+.long	0x0
+.long	0x0

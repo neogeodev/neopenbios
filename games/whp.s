@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_90:
+.string "World Heroes Perfect "
+.string "World Heroes Perfect "
+.string "World Heroes Perfect "
+.long	0x0
+.long	0x0

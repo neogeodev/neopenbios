@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_79:
+.string "Street Hoop          "
+.string "Street Hoop          "
+.string "Street Hoop          "
+.long	0x0
+.long	0x0

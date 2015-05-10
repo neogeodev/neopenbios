@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_73:
+.string "Panic Bomber         "
+.string "Panic Bomber         "
+.string "Panic Bomber         "
+.long	0x0
+.long	0x0

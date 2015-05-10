@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_267:
+.string "Pochi & Nyaa         "
+.string "Pochi & Nyaa         "
+.string "Pochi & Nyaa         "
+.long	0x0
+.long	0x0

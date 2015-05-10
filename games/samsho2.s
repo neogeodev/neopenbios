@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_63:
+.string "Samurai Spirits 2    "
+.string "Samurai Shodown 2    "
+.string "Samurai Shodown 2    "
+.long	0x0
+.long	0x0

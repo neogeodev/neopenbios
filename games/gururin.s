@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_67:
+.string "Gururin              "
+.string "Gururin              "
+.string "Gururin              "
+.long	0x0
+.long	0x0

@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_231:
+.string "Money Idol Exchangr. "
+.string "Money Puzzle Exchgr. "
+.string "Money Puzzle Exchgr. "
+.long	0x0
+.long	0x0

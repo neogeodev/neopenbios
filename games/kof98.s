@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_242:
+.string "KOF 98               "
+.string "KOF 98               "
+.string "KOF 98               "
+.long	0x0
+.long	0x0

@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_240:
+.string "RB. Fatal Fury 2     "
+.string "RB. Fatal Fury 2     "
+.string "RB. Fatal Fury 2     "
+.long	0x0
+.long	0x0
