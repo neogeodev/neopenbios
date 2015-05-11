@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_96:
+.string "Ryuuko no Ken Gaiden "
+.string "Art of Fighting 3    "
+.string "Art of Fighting 3    "
+.long	0x0
+.long	0x0

@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_222:
+.string "Samurai Spirits 4    "
+.string "Samurai Shodown 4    "
+.string "Samurai Shodown 4    "
+.long	0x0
+.long	0x0

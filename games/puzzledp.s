@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_202:
+.string "Puzzle de Pon!       "
+.string "Puzzle de Pon!       "
+.string "Puzzle de Pon!       "
+.long	0x0
+.long	0x0

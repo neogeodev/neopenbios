@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_203:
+.string "Master of Syougi     "
+.string "Master of Syougi     "
+.string "Master of Syougi     "
+.long	0x0
+.long	0x0

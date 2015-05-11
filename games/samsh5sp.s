@@ -15,9 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-gamename_34:
-.string "Football Frenzy      "
-.string "Football Frenzy      "
-.string "Football Frenzy      "
+gamename_272:
+.string "Samurai Spirits 5 S. "
+.string "Samurai Shodown 5 S. "
+.string "Samurai Shodown 5 S. "
 .long	0x0
 .long	0x0

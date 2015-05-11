@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_208:
+.string "Super Dodge Ball     "
+.string "Super Dodge Ball     "
+.string "Super Dodge Ball     "
+.long	0x0
+.long	0x0

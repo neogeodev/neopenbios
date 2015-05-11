@@ -1,4 +1,4 @@
-
+/*
  * Copyright (c) 2011 Emmanuel Vadot <elbarto@neogeodev.org>
  * Copyright (c) 2011 Furrtek <furrtek@neogeodev.org>
  *

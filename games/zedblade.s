@@ -15,3 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
+gamename_76:
+.string "Zed Blade            "
+.string "Zed Blade            "
+.string "Zed Blade            "
+.long	0x0
+.long	0x0

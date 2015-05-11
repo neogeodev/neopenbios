@@ -1,4 +1,4 @@
-
+/*
  * Copyright (c) 2011 Emmanuel Vadot <elbarto@neogeodev.org>
  * Copyright (c) 2011 Furrtek <furrtek@neogeodev.org>
  *
@@ -14,8 +14,6 @@
  * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
-
-
 
 gamename_58:
 .byte	0x85, 0xB7, 0xAA, 0x82, 0x92, 0xB7, 0xAD, 0x8D, 0x91, 0x53, 0x50, 0x45, 0x43, 0x49, 0x41, 0x4C, 0x20, 0x20, 0x20, 0x20, 0x20, 0x00

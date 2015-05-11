@@ -15,8 +15,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
 gamename_23:
 .string "Quiz Daisousa Sen    "
 .string "Quiz Daisousa Sen    "

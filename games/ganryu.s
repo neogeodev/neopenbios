@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_252:
+.string "Musashi Ganryuki     "
+.string "Ganryu               "
+.string "Ganryu               "
+.long	0x0
+.long	0x0

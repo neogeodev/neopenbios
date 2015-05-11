@@ -15,9 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-gamename_34:
-.string "Football Frenzy      "
-.string "Football Frenzy      "
-.string "Football Frenzy      "
+gamename_64:
+.string "World Heroes 2 Jet   "
+.string "World Heroes 2 Jet   "
+.string "World Heroes 2 Jet   "
 .long	0x0
 .long	0x0

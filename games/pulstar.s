@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_89:
+.string "Pulstar              "
+.string "Pulstar              "
+.string "Pulstar              "
+.long	0x0
+.long	0x0

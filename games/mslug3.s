@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_256:
+.string "Metal Slug 3         "
+.string "Metal Slug 3         "
+.string "Metal Slug 3         "
+.long	0x0
+.long	0x0

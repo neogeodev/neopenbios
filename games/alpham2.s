@@ -15,8 +15,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
 gamename_7:
 .string "ASO II:Last Guardian "
 .string "Alpha Mission 2      "

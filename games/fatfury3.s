@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_69:
+.string "Fatal Fury 3         "
+.string "Fatal Fury 3         "
+.string "Fatal Fury 3         "
+.long	0x0
+.long	0x0

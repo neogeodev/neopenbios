@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_97:
+.string "Sonic Wings 3        "
+.string "Aero Fighters 3      "
+.string "Sonic Wings 3        "
+.long	0x0
+.long	0x0

@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_249:
+.string "Captain Tomaday      "
+.string "Captain Tomaday      "
+.string "Captain Tomaday      "
+.long	0x0
+.long	0x0

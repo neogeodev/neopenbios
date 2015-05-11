@@ -15,8 +15,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
 gamename_29:
 .string "Ashita noJoeDensetsu "
 .string "Lgnd. of Success Joe "

@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_261:
+.string "Sengoku Legends 2001 "
+.string "Sengoku 3            "
+.string "Sengoku 3            "
+.long	0x0
+.long	0x0

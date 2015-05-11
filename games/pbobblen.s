@@ -15,8 +15,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
 gamename_83:
 .string "Puzzle Bobble        "
 .string "Bust-A-Move          "

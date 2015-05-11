@@ -15,8 +15,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
 gamename_48:
 .string "Quest of Jong Master "
 .string "Quest of Jong Master "

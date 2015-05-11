@@ -15,3 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
+gamename_70:
+.string "Zupapa!              "
+.string "Zupapa!              "
+.string "Zupapa!              "
+.long	0x0
+.long	0x0

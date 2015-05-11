@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_221:
+.string "Magical Drop 2       "
+.string "Magical Drop 2       "
+.string "Magical Drop 2       "
+.long	0x0
+.long	0x0

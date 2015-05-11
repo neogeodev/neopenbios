@@ -15,5 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
+gamename_207:
+.string "Neo Mr. Do!          "
+.string "Neo Mr. Do!          "
+.string "Neo Mr. Do!          "
+.long	0x0
+.long	0x0

@@ -15,8 +15,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
-
 gamename_36:
 .string "Mahjong Bakatonosam. "
 .string "Mahjong Bakatonosam. "
