@@ -16,7 +16,7 @@
  */
 
 gamename_240:
-.string "RB. Fatal Fury 2     "
+.string "RB. Garou Densetsu 2 "
 .string "RB. Fatal Fury 2     "
 .string "RB. Fatal Fury 2     "
 .long	0x0

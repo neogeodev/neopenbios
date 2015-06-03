@@ -16,7 +16,7 @@
  */
 
 gamename_223:
-.string "RB. Fatal Fury Spec. "
+.string "RB. Garou Den. Spec. "
 .string "RB. Fatal Fury Spec. "
 .string "RB. Fatal Fury Spec. "
 .long	0x0
