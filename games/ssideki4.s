@@ -17,7 +17,7 @@
 
 gamename_215:
 .string "Super Sidekicks 4    "
-.string "Super Sidekicks 4    "
-.string "Super Sidekicks 4    "
+.string "The Ultimate 11      "
+.string "The Ultimate 11      "
 .long	0x0
 .long	0x0

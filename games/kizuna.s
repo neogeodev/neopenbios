@@ -16,7 +16,7 @@
  */
 
 gamename_216:
-.string "Kizuna Encounter     "
+.string "Fu'un Super Tag Batt "
 .string "Kizuna Encounter     "
 .string "Kizuna Encounter     "
 .long	0x0
