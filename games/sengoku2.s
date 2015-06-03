@@ -16,7 +16,7 @@
  */
 
 gamename_40:
-.string "Sengoku 2            "
+.string "Sengoku Denshou 2    "
 .string "Sengoku 2            "
 .string "Sengoku 2            "
 .long	0x0

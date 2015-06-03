@@ -16,7 +16,7 @@
  */
 
 gamename_25:
-.string "Eight Man            "
+.string "8 Man                "
 .string "Eight Man            "
 .string "Eight Man            "
 .long	0x0
