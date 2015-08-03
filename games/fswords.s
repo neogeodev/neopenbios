@@ -15,4 +15,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-
+gamename_187:
+.string "Fighters Swords      "
+.string "Fighters Swords      "
+.string "Fighters Swords      "
+.long	0x0
+.long	0x0

@@ -16,7 +16,7 @@
  */
 
 gamename_17:
-.string "Sengoku              "
+.string "Sengoku Denshou      "
 .string "Sengoku              "
 .string "Sengoku              "
 .long	0x0

@@ -16,7 +16,7 @@
  */
 
 gamename_95:
-.string "Real Bout Fatal Fury "
+.string "Real Bout Garou Den. "
 .string "Real Bout Fatal Fury "
 .string "Real Bout Fatal Fury "
 .long	0x0

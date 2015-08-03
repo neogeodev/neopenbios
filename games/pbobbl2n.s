@@ -18,6 +18,6 @@
 gamename_248:
 .string "Puzzle Bobble 2      "
 .string "Bust-A-Move Again    "
-.string "Bust-A-Move Again    "
+.string "Puzzle Bobble 2      "
 .long	0x0
 .long	0x0
